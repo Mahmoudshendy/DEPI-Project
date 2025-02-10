@@ -1,1 +1,3 @@
 # DEPI-Project
+- sales
+- products
